@@ -1,6 +1,6 @@
 <cocktail>
   <cocktailName>Jambledon</cocktailName>
-  <version>1.2</version>
+  <version>1.3</version>
   <imageURL>http://www.danread.net/projects/recipeImages/Jambledon.jpg</imageURL>
   <ingredients>
     
@@ -12,9 +12,9 @@
       <ingredientName>Strawberries</ingredientName>
     </ingredient>
            
-    <ingredient ingredientID = '2'>
+    <ingredient>
       <quantity>
-        <measure>2.5</measure>
+        <measure>3</measure>
         <unit>Oz</unit>
       </quantity>
       <ingredientName>Takamaka White Rum</ingredientName>
@@ -36,7 +36,7 @@
       <ingredientName>Mint Leaves</ingredientName>
     </ingredient>
     
-    <ingredient ingredientID = '5'>
+    <ingredient>
       <quantity>
         <measure>0.5</measure>
         <unit>Cup</unit>
