@@ -1,0 +1,57 @@
+<cocktail>
+  <cocktailName>Jambledon</cocktailName>
+  <version>1.2</version>
+  <imageURL>http://www.danread.net/projects/recipeImages/Jambledon.jpg</imageURL>
+  <ingredients>
+    
+    <ingredient>
+      <quantity>
+        <measure>6</measure>
+        <unit>Whole</unit>
+      </quantity>
+      <ingredientName>Strawberries</ingredientName>
+    </ingredient>
+           
+    <ingredient ingredientID = '2'>
+      <quantity>
+        <measure>2.5</measure>
+        <unit>Oz</unit>
+      </quantity>
+      <ingredientName>Takamaka White Rum</ingredientName>
+    </ingredient>
+          
+    <ingredient>
+      <quantity>
+        <measure>0.5</measure>
+        <unit>Oz</unit>
+      </quantity>
+      <ingredientName>Honey</ingredientName>
+    </ingredient>
+          
+    <ingredient>
+      <quantity>
+        <measure>3</measure>
+        <unit>Sprigs</unit>
+      </quantity>
+      <ingredientName>Mint Leaves</ingredientName>
+    </ingredient>
+    
+    <ingredient ingredientID = '5'>
+      <quantity>
+        <measure>0.5</measure>
+        <unit>Cup</unit>
+      </quantity>
+      <ingredientName>Ice</ingredientName>
+    </ingredient>
+  </ingredients>
+        
+  <method>
+    Chop up those mint leaves as small as you can. Put everything in a blender until the ice is smoothe and the mint is as finely chopped as possible. Slowly pour it into a tumbler to catch any ice lumps before they fall out, and top with some mint leaves to garnish.
+  </method>
+  
+  <notes>
+    Be careful - this is delicious. It's like English summertime took a Carribean vacation.
+  </notes>
+  
+  <owner ownerID = '1'>Dan Read</owner>
+</cocktail>
